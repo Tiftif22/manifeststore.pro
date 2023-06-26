@@ -1,0 +1,48 @@
+*
+{
+  padding: 0;
+  margin: 0 auto;
+  text-decoration: none;
+  list-style: none;
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+}
+
+body
+{
+  background-color: #fff;
+}
+
+footer
+{
+  margin-top: 10%;
+  bottom: 0;
+  position: relative;
+}
+
+footer a
+{
+  font-size: 50px;
+  margin: 50px;
+  color: #fff;
+}
+
+footer a:hover
+{
+  transition: 0.3s all;
+  color : #009de0;
+}
+
+header, footer
+{
+    padding: 15px;
+    color: #fff;
+    text-align: center;
+    text-transform: uppercase;
+    background-color: #e1c36b;
+}
+
+section
+{
+  padding-top: 125px;
+}
